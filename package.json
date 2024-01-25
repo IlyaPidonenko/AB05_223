@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mariadb": "^3.2.3",
+    "typeorm": "^0.3.19"
+  }
+}
